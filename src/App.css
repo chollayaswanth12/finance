@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.placement-center {
+	place-items: center;
+}
+
+.bg-F3F5FB {
+	background-color: #F3F5FB;
+}
+
+.height-100vh {
+	height: 100vh;
+}
+
+.w-30{
+	width: 30%;
+}
